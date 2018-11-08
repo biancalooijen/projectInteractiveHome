@@ -1,0 +1,56 @@
+newmtl backlightSG
+illum 4
+Kd 0.85 0.94 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 30.00
+newmtl bodySG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 30.00
+newmtl bodySG1
+illum 4
+Kd 0.28 0.70 0.95
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 30.00
+newmtl headlightSG
+illum 4
+Kd 0.85 0.94 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 30.00
+newmtl lattice_1SG
+illum 4
+Kd 0.00 0.01 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.26 0.26 0.26
+Ns 43.25
+newmtl rear_fenderSG
+illum 4
+Kd 0.69 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.23 0.23
+Ns 37.40
+newmtl wheel_1SG
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 30.00
